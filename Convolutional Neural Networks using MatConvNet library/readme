@@ -1,0 +1,8 @@
+program1: CNN Basics
+CNN convolution, Non-linearity, Pooling
+
+program2: Applying CNNs
+Using CNNs as a feature extractor and classifier
+Using CNN features and an SVM classifier
+
+program3: Transfer Learning

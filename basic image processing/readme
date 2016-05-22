@@ -1,0 +1,17 @@
+program1:
+Gaussian kernel
+
+program2:
+2D Gaussian vs 2 1d Gaussain in each direction
+
+program3:
+Sobel edge detector
+
+program4:
+Laplacian kernel (Mexican hat filter)
+
+program5:
+edge detector based on locating the zero crossings of the Laplacian
+
+program6:
+Canny edge extraction algorithm: CANNY_ENHANCER(Gaussian filtering & finding magnitude and orientation of gradient) and NONMAX_SUPPRESSION

@@ -1,0 +1,92 @@
+  0.524639    -0.246802           0.000000
+  0.221243     0.560166           0.000000
+  12.009935   104.780543           1.000000
+matched index in database is 1 
+matched index in database is 1 
+matched index in database is 1 
+matched index in database is 1 
+matched index in database is 1 
+  0.644694    -0.772043           0.000000
+  0.672684     0.627867           0.000000
+  -51.409448   178.719189           1.000000
+matched index in database is 1 
+matched index in database is 1 
+matched index in database is 1 
+matched index in database is 1 
+matched index in database is 1 
+matched index in database is 1 
+matched index in database is 1 
+matched index in database is 1 
+matched index in database is 1 
+matched index in database is 1 
+matched index in database is 1 
+matched index in database is 1 
+matched index in database is 1 
+matched index in database is 1 
+matched index in database is 1 
+matched index in database is 1 
+matched index in database is 1 
+matched index in database is 1 
+matched index in database is 1 
+matched index in database is 1 
+matched index in database is 1 
+matched index in database is 1 
+matched index in database is 1 
+matched index in database is 1 
+matched index in database is 1 
+matched index in database is 1 
+matched index in database is 1 
+matched index in database is 1 
+matched index in database is 1 
+matched index in database is 1 
+matched index in database is 1 
+matched index in database is 1 
+matched index in database is 1 
+matched index in database is 1 
+matched index in database is 1 
+matched index in database is 1 
+matched index in database is 1 
+  -0.751754     0.435407           0.000000
+  -0.404205    -0.813689           0.000000
+  306.740918   168.857948           1.000000
+matched index in database is 1 
+matched index in database is 1 
+matched index in database is 1 
+matched index in database is 1 
+matched index in database is 1 
+matched index in database is 1 
+matched index in database is 1 
+matched index in database is 1 
+  -0.741266     0.291870           0.000000
+  -0.162598    -0.859974           0.000000
+  281.356651   182.191958           1.000000
+matched index in database is 1 
+matched index in database is 1 
+matched index in database is 1 
+matched index in database is 1 
+matched index in database is 1 
+matched index in database is 1 
+matched index in database is 1 
+matched index in database is 1 
+matched index in database is 2 
+matched index in database is 2 
+  0.007061    -1.168197           0.000000
+  0.325284     0.985077           0.000000
+  64.687450   339.548275           1.000000
+matched index in database is 1 
+  -0.335224     1.577505           0.000000
+  0.470069     1.060491           0.000000
+  143.065532  -235.353497           1.000000
+matched index in database is 2 
+matched index in database is 2 
+  1.345700    -0.261728           0.000000
+  -0.404840     1.137582           0.000000
+  0.007026    -0.000397           1.000000
+matched index in database is 2 
+matched index in database is 2 
+  1.181625    -0.040219           0.000000
+  -0.212179     1.099045           0.000000
+  0.005950     0.001541           1.000000
+matched index in database is 1 
+matched index in database is 2 
+matched index in database is 2 
